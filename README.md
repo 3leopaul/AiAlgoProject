@@ -1,4 +1,4 @@
-## Option B - Cost and Performance Optimization
+## Cost and Performance Optimization of a cloud cluster for a machine learning application
 
 This project explores how to provision cloud VMs for a distributed ML training job while minimizing hourly cost and keeping the system stable.
 
